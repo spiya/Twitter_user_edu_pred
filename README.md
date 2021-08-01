@@ -2,9 +2,13 @@
 The goal of this project was to develop a machine learning model that predicts the education level of Twitter users based on the opinions they expressed in Twitter
 
 1.	Docs
+
 [Final report] (https://github.com/spiya/Twitter_user_edu_pred/blob/main/Twitter_edu_pred_report.pdf)
+
 This contains complete description on data wrangling, exploratory data analysis and machine learning.
+
 [Presentation] (https://github.com/spiya/Twitter_user_edu_pred/blob/main/Twitter_edu_pred_presentation.pdf)
+
 This contains presentation on the findings of this study.
 
 2.	Notebook
