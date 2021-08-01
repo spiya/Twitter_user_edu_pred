@@ -9,6 +9,7 @@ This contains presentation on the findings of this study.
 
 2.	Notebook
 These notebooks contain the codes used in various steps of data analysis.
+
 [Data scrapping, Data wrangling and Exploratory data analysis] (https://github.com/spiya/Twitter_user_edu_pred/blob/main/Notebook/01_ds_wrangling_EDA.ipynb)
 
 [Machine learning] (https://github.com/spiya/Twitter_user_edu_pred/blob/main/Notebook/02_modelling.ipynb)
